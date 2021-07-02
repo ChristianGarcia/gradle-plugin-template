@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+/.idea
+!/.idea/copyright
+*.iml
+local.properties
+
+# Gradle
+.gradle
+build
+/reports
